@@ -1,5 +1,7 @@
 # rag-local-app
-This is a Simple RAG based FAQ Chat application which can run locally and using open source LLM model (mistral 7b) and frameworks.
+This project is a simple Retrieval-Augmented Generation (RAG) based FAQ chatbot that runs entirely on a local machine. It leverages open-source LLMs, specifically the Mistral 7B model, to provide accurate answers based on a predefined FAQ dataset.
+
+The application combines modern frameworks such as LlamaIndex for data indexing and retrieval, Ollama for running the LLM locally, and Streamlit for an interactive chat-based user interface.
 
 # Prerequisites 
 Install Ollama on your system
