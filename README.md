@@ -5,9 +5,9 @@ The application combines modern frameworks such as LlamaIndex for data indexing 
 
 # Prerequisites 
 Install Ollama on your system
-Pull the required model:
+Pull the required model - 
     ollama pull mistral:7b
-Ensure Ollama is running before starting the application
+Ensure Ollama is running before starting the application - 
     ollama serve
 
 # Build and Run
