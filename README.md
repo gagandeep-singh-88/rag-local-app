@@ -12,6 +12,7 @@ Ensure Ollama is running before starting the application -
 
 # Build and Run
 docker build -t rag-local-app .
+
 docker run -p 8501:8501 rag-local-app
 
 # Explore Chatbot
