@@ -9,7 +9,7 @@ from llama_index.core.node_parser import SentenceSplitter
 def load_index():
     # LLM
     Settings.llm = Ollama(
-        model="mistral:7b",
+        model="qwen2.5:1.5b",
         base_url="http://host.docker.internal:11434",
         temperature=0.5,
         request_timeout=300
