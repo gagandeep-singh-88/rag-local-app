@@ -1,5 +1,11 @@
-llama-index
-llama-index-llms-ollama
-llama-index-embeddings-ollama
-chromadb
+langchain
+langchain-community
+langchain-ollama
+langgraph
+langchain-core
+pandas
+openpyxl
+xlrd
+tabulate
+sqlalchemy
 streamlit
